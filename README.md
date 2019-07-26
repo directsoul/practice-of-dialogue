@@ -62,7 +62,7 @@
    <tr>
       <td  align="center">阿里巴巴</td>
       <td  align="center">天猫精灵</td>
-      <td  align="center"><a href="https://mp.weixin.qq.com/s/Db6Am-bAyufg3m67Ta5GBQ">当你和天猫精灵对话时，它在想什么？阿里智能对话技术深度解读</a></td>
+      <td  align="center"><a href="https://mp.weixin.qq.com/s/Db6Am-bAyufg3m67Ta5GBQ">和天猫精灵对话时，它在想什么？阿里智能对话技术深度解读</a></td>
       <td  align="center">2018-03-19</td>
       <td  align="center">阿里技术</td>
    </tr>
