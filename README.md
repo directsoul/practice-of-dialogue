@@ -34,8 +34,8 @@
 
 <table>
    <tr>
-      <td  align="center"><b>公司名称</b></td>
-      <td  align="center"><b>产品形态</b></td>
+      <td  align="center"><b>公司</b></td>
+      <td  align="center"><b>产品</b></td>
       <td  align="center"><b>文章标题</b></td>
       <td  align="center"><b>发表时间</b></td>
       <td  align="center"><b>来源</b></td>
