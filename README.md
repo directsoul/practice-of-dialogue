@@ -20,6 +20,7 @@
 </p>
 
 <h2 align="center">项目起源</h2>
+
 对话领域是当前非常热门的一个NLP的方向，无论在学术界还是在工业界。由此衍生出来的产品包括通用形态的苹果siri，微软小冰，小米的小爱同学等，以及各个行业领域的智能助手，智能客服等。
 这些产品基本可以看成下一代人机自然语言交互的雏形。
 
@@ -65,6 +66,13 @@
       <td  align="center"><a href="https://mp.weixin.qq.com/s/Db6Am-bAyufg3m67Ta5GBQ">和天猫精灵对话时，它在想什么？阿里智能对话技术深度解读</a></td>
       <td  align="center">2018-03-19</td>
       <td  align="center">阿里技术</td>
+   </tr>
+   <tr>
+      <td  align="center">58同城</td>
+      <td  align="center">智能客服</td>
+      <td  align="center"><a href="https://mp.weixin.qq.com/s/5ewD2xD8J08W89-Rwixw4Q">五八同城智能客服系统“帮帮”技术揭秘</a></td>
+      <td  align="center">2018-09-05</td>
+      <td  align="center">DataFunTalk</td>
    </tr>
 </table>
 
