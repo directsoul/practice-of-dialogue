@@ -61,11 +61,17 @@
       <td  align="center">DataFunTalk</td>
    </tr>
    <tr>
-      <td  align="center">阿里巴巴</td>
+      <td  align="center" rowspan="2">阿里巴巴</td>
       <td  align="center">天猫精灵</td>
       <td  align="center"><a href="https://mp.weixin.qq.com/s/Db6Am-bAyufg3m67Ta5GBQ">和天猫精灵对话时，它在想什么？阿里智能对话技术深度解读</a></td>
       <td  align="center">2018-03-19</td>
       <td  align="center">阿里技术</td>
+   </tr>
+   <tr>
+      <td  align="center">阿里小蜜</td>
+      <td  align="center"><a href="https://mp.weixin.qq.com/s/uzmcISuDbf7EkralufAKhA">阿里小蜜：智能服务技术实践及场景探索</a></td>
+      <td  align="center">2019-03-08</td>
+      <td  align="center">DataFunTalk</td>
    </tr>
    <tr>
       <td  align="center">58同城</td>
