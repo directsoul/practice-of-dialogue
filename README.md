@@ -80,6 +80,20 @@
       <td  align="center">2018-09-05</td>
       <td  align="center">DataFunTalk</td>
    </tr>
+   <tr>
+      <td  align="center">携程</td>
+      <td  align="center">智能客服</td>
+      <td  align="center"><a href="https://mp.weixin.qq.com/s/6dKticG2I2zqlxnZ3W0ZgQ">“猜你所想，答你所问”，携程智能客服算法实践</a></td>
+      <td  align="center">2018-08-07</td>
+      <td  align="center">携程技术</td>
+   </tr>
+   <tr>
+      <td  align="center">其他</td>
+      <td  align="center">对话机器人</td>
+      <td  align="center"><a href="https://mp.weixin.qq.com/s/5ewD2xD8J08W89-Rwixw4Q">小米华为追一等做对话机器人的企业，都在关注哪些问题</a></td>
+      <td  align="center">2019-12-17</td>
+      <td  align="center">加智</td>
+   </tr>
 </table>
 
 
